@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "name": "Rahul Sharma",
+      "class": "10",
+      "roll_no": 12,
+      "subjects": {
+        "Physics": 78,
+        "Chemistry": 82,
+        "Mathematics": 91,
+        "Biology": 75,
+        "Hindi": 88,
+        "English": 84
+      },
+      "teacher_suggestion": "Rahul is strong in Mathematics. He should focus more on Biology with regular revision."
+    },
+    {
+      "name": "Ananya Verma",
+      "class": "10",
+      "roll_no": 18,
+      "subjects": {
+        "Physics": 85,
+        "Chemistry": 79,
+        "Mathematics": 88,
+        "Biology": 90,
+        "Hindi": 92,
+        "English": 89
+      },
+      "teacher_suggestion": "Ananya is a consistent performer. She should practice numerical problems in Chemistry."
+    },
+    {
+      "name": "Amit Kumar",
+      "class": "9",
+      "roll_no": 7,
+      "subjects": {
+        "Physics": 70,
+        "Chemistry": 68,
+        "Mathematics": 74,
+        "Biology": 72,
+        "Hindi": 80,
+        "English": 77
+      },
+      "teacher_suggestion": "Amit needs to improve conceptual understanding in Science subjects."
+    },
+    {
+      "name": "Sneha Patel",
+      "class": "9",
+      "roll_no": 15,
+      "subjects": {
+        "Physics": 92,
+        "Chemistry": 89,
+        "Mathematics": 94,
+        "Biology": 91,
+        "Hindi": 85,
+        "English": 90
+      },
+      "teacher_suggestion": "Sneha is an excellent student. She should consider competitive exam preparation."
+    },
+    {
+      "name": "Arjun Singh",
+      "class": "8",
+      "roll_no": 3,
+      "subjects": {
+        "Physics": 65,
+        "Chemistry": 60,
+        "Mathematics": 70,
+        "Biology": 68,
+        "Hindi": 75,
+        "English": 72
+      },
+      "teacher_suggestion": "Arjun should focus on building basics, especially in Chemistry."
+    }
+  ]
+}
